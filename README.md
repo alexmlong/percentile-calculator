@@ -1,6 +1,6 @@
 # Percentile Calculator
 
-The script generates random samples in a lognormal distribution
+This script generates random samples in a lognormal distribution
 and then returns a specified percentile given those samples.
 
 It allows for the setting of these parameters:
